@@ -26,5 +26,8 @@ This data combines the latest Office for National Statistics data for December 2
 
 * [Election 2017: People turn to Google ahead of election](https://github.com/BBC-Data-Unit/election17-google)
 * [How non-voters can change the outcome of an election](https://github.com/BBC-Data-Unit/non-voters)
+* [Election 2017: If more young people actually voted, would it change everything?](https://github.com/BBC-Data-Unit/election17-young-people)
+
+You can [find all election-related stories in this GitHub account tagged 'elections'](https://github.com/search?q=topic%3Aelections+org%3ABBC-Data-Unit&type=Repositories)
 
 
